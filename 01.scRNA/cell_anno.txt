@@ -1,0 +1,12 @@
+seurat_clusters	cell_type	cell_num
+0	Epithelial cell	11745
+1	CD8 T	8967
+2	Macrophage	5769
+3	Fibroblast	2710
+4	Plasma cell	2703
+5	B cell	1815
+6	CD4 T	1639
+7	Endothelial cell	1214
+8	Fibroblast	1208
+9	Macrophage	155
+10	Monocyte	82
